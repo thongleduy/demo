@@ -1,0 +1,10 @@
+export const LIST_ALL_PRODUCT = 'LIST_ALL_PRODUCT';
+export const REMOVE_PRODUCT = 'REMOVE_PRODUCT';
+export const EDIT_PRODUCT = 'EDIT_PRODUCT';
+export const NEW_PRODUCT = 'NEW_PRODUCT';
+export const TOGGLE_MODAL_NEWPRODUCT = 'TOGGLE_MODAL_NEWPRODUCT';
+export const ADD_TO_CART = 'ADD_TO_CART';
+export const LIST_CART = 'LIST_CART';
+export const REDUCE_CART = 'REDUCE_CART';
+export const ADD_MORE_CART = 'ADD_MORE_CART';
+export const REMOVE_CART = 'REMOVE_CART';
